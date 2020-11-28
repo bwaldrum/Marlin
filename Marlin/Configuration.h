@@ -1116,8 +1116,8 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 500  // WDW
-#define Y_BED_SIZE 500  // WDW
+#define X_BED_SIZE 595  // WDW
+#define Y_BED_SIZE 595  // WDW
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
